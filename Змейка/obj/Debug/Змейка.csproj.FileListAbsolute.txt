@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\Змейка\Змейка\bin\Debug\Змейка.exe.config
+D:\Projects\Visual Studio\Змейка\Змейка\bin\Debug\Змейка.exe
+D:\Projects\Visual Studio\Змейка\Змейка\bin\Debug\Змейка.pdb
+D:\Projects\Visual Studio\Змейка\Змейка\obj\Debug\Змейка.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio\Змейка\Змейка\obj\Debug\Змейка.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Visual Studio\Змейка\Змейка\obj\Debug\Змейка.Form1.resources
+D:\Projects\Visual Studio\Змейка\Змейка\obj\Debug\Змейка.Properties.Resources.resources
+D:\Projects\Visual Studio\Змейка\Змейка\obj\Debug\Змейка.csproj.GenerateResource.cache
+D:\Projects\Visual Studio\Змейка\Змейка\obj\Debug\Змейка.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\Змейка\Змейка\obj\Debug\Змейка.exe
+D:\Projects\Visual Studio\Змейка\Змейка\obj\Debug\Змейка.pdb
